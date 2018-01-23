@@ -185,7 +185,7 @@ var c_group=document.querySelectorAll('#side .c_group');
 var zzc=document.querySelector('#zzc');
 var num=0;
 list.onclick=function(){
-	side.style.right='17px';
+	side.style.right='0';
 	zzc.style.display='block';
 }
 a.onclick=function(){
